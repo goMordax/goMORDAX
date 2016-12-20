@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD_MSJ", "DOM\DDD_MSJ.csproj", "{159DF542-7B29-4B11-ABA9-9719082A1B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{D506FBFC-8DB5-4703-8996-AAD4D562DF39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST_DDD_MSJ", "TEST_DOM_MSJ\TEST_DDD_MSJ.csproj", "{CF1378F4-300B-47BA-B9B1-23EBCC3B8599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD_MSJ_SOAP", "DDD_MSJ_SRV\DDD_MSJ_SOAP.csproj", "{95862F31-EBF2-4261-A8EF-0E7E092BAF9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD_MSJ_WEBAPI", "Web1\DDD_MSJ_WEBAPI.csproj", "{E989D6C8-DC4C-4C8F-8B74-78DA0E2D3191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDD_MSJ_WEBAPI.Tests", "Web1.Tests\DDD_MSJ_WEBAPI.Tests.csproj", "{934241F2-0C0A-4052-908F-81123442E7E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{159DF542-7B29-4B11-ABA9-9719082A1B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159DF542-7B29-4B11-ABA9-9719082A1B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159DF542-7B29-4B11-ABA9-9719082A1B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159DF542-7B29-4B11-ABA9-9719082A1B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D506FBFC-8DB5-4703-8996-AAD4D562DF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D506FBFC-8DB5-4703-8996-AAD4D562DF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D506FBFC-8DB5-4703-8996-AAD4D562DF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D506FBFC-8DB5-4703-8996-AAD4D562DF39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF1378F4-300B-47BA-B9B1-23EBCC3B8599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1378F4-300B-47BA-B9B1-23EBCC3B8599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1378F4-300B-47BA-B9B1-23EBCC3B8599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1378F4-300B-47BA-B9B1-23EBCC3B8599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95862F31-EBF2-4261-A8EF-0E7E092BAF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95862F31-EBF2-4261-A8EF-0E7E092BAF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95862F31-EBF2-4261-A8EF-0E7E092BAF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95862F31-EBF2-4261-A8EF-0E7E092BAF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E989D6C8-DC4C-4C8F-8B74-78DA0E2D3191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E989D6C8-DC4C-4C8F-8B74-78DA0E2D3191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E989D6C8-DC4C-4C8F-8B74-78DA0E2D3191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E989D6C8-DC4C-4C8F-8B74-78DA0E2D3191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934241F2-0C0A-4052-908F-81123442E7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934241F2-0C0A-4052-908F-81123442E7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934241F2-0C0A-4052-908F-81123442E7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934241F2-0C0A-4052-908F-81123442E7E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
